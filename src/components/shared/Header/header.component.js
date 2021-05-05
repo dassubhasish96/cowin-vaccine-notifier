@@ -1,9 +1,10 @@
 import React, { Fragment } from 'react';
+import banner from './largest-vaccine-banner.jpeg';
 
 function Header(props) {
     return (
         <Fragment>
-            <img src="https://www.cowin.gov.in/assets/images/largest-vaccine-banner.jpg" alt="Girl in a jacket" ></img>
+            <img src= {banner} alt="vaccine banner" ></img>
         </Fragment>
     );
 }
