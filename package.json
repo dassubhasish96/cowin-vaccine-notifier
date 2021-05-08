@@ -1,6 +1,6 @@
 {
   "name": "cowin-notification-frontend",
-  "homepage": "https://lazy-engineer1.github.io/cowin-vaccine-notifier",
+  "homepage": "https://lazy-engineer1.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
