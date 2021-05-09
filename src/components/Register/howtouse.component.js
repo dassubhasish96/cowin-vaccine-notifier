@@ -12,7 +12,7 @@ function HowToUse(props) {
             There are two types of notification, by pincode and by district. Enter pincode or select state/district and enter email, minimum age limit
             then submit. You will get email notification when vaccination slots will be available for that pin/district.<br/><br/>
             <h5>What is age filter ?</h5>
-            Selecting all age will notify centers with 18+ age and also centers with 45+ age. But selecting 18 - 44 or 45+ alone will notify 
+            Selecting all age will notify centers with 18 - 44 age and also centers with 45+ age. But selecting 18 - 44 or 45+ alone will notify 
             centers with that age only.
            
         </Fragment>
