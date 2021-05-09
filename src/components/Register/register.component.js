@@ -142,7 +142,7 @@ class Register extends Component {
 
         if (Object.keys(errors).length === 0) {
             //Call an api here
-            let url = "https://api.subhu.in/notification";
+            let url = "http://ec2-65-1-112-205.ap-south-1.compute.amazonaws.com:8080/notification";
             let payload;
             if(data.notificationType === 'p'){
                   payload = {
@@ -176,6 +176,20 @@ class Register extends Component {
                             ...this.state.errors,
                         }
                     });
+
+                    setTimeout(() =>{ 
+                        this.setState({
+                            data: {
+                                ...this.state.data,
+                                alertSuccess: false
+                            
+                            },
+                            errors: {
+                                ...this.state.errors,
+                            }
+                        });
+
+                     }, 3000);
                 }
                 else {
                      this.setState({
@@ -188,6 +202,20 @@ class Register extends Component {
                             ...this.state.errors,
                         }
                     });
+
+                    setTimeout(()=>{ 
+                        this.setState({
+                            data: {
+                                ...this.state.data,
+                                alertFailure: false
+                            
+                            },
+                            errors: {
+                                ...this.state.errors,
+                            }
+                        });
+
+                     }, 3000);
                 }
             }).catch(error => {
                 this.setState({
@@ -200,6 +228,22 @@ class Register extends Component {
                         ...this.state.errors,
                     }
                 });
+
+                setTimeout(()=>{ 
+                    this.setState({
+                        data: {
+                            ...this.state.data,
+                            alertFailure: false
+                        
+                        },
+                        errors: {
+                            ...this.state.errors,
+                        }
+                    });
+
+                 }, 3000);
+
+
             })
             
 
