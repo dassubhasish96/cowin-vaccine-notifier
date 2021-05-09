@@ -142,7 +142,7 @@ class Register extends Component {
 
         if (Object.keys(errors).length === 0) {
             //Call an api here
-            let url = "http://ec2-65-1-112-205.ap-south-1.compute.amazonaws.com:8080/notification";
+            let url = "https://api.subhu.in/notification";
             let payload;
             if(data.notificationType === 'p'){
                   payload = {
