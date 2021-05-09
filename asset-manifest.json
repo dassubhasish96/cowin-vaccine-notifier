@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/cowin-vaccine-notifier/static/css/main.5823061f.chunk.css",
-    "main.js": "/cowin-vaccine-notifier/static/js/main.8ad246ba.chunk.js",
-    "main.js.map": "/cowin-vaccine-notifier/static/js/main.8ad246ba.chunk.js.map",
-    "runtime-main.js": "/cowin-vaccine-notifier/static/js/runtime-main.29c528b6.js",
-    "runtime-main.js.map": "/cowin-vaccine-notifier/static/js/runtime-main.29c528b6.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/cowin-vaccine-notifier/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.cd09d440.chunk.js": "/cowin-vaccine-notifier/static/js/2.cd09d440.chunk.js",
-    "static/js/2.cd09d440.chunk.js.map": "/cowin-vaccine-notifier/static/js/2.cd09d440.chunk.js.map",
-    "static/js/3.e4a5c669.chunk.js": "/cowin-vaccine-notifier/static/js/3.e4a5c669.chunk.js",
-    "static/js/3.e4a5c669.chunk.js.map": "/cowin-vaccine-notifier/static/js/3.e4a5c669.chunk.js.map",
-    "index.html": "/cowin-vaccine-notifier/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/cowin-vaccine-notifier/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.5823061f.chunk.css.map": "/cowin-vaccine-notifier/static/css/main.5823061f.chunk.css.map",
-    "static/js/2.cd09d440.chunk.js.LICENSE.txt": "/cowin-vaccine-notifier/static/js/2.cd09d440.chunk.js.LICENSE.txt",
-    "static/media/largest-vaccine-banner.68f2be6e.jpeg": "/cowin-vaccine-notifier/static/media/largest-vaccine-banner.68f2be6e.jpeg"
+    "main.css": "/static/css/main.5823061f.chunk.css",
+    "main.js": "/static/js/main.0dedf522.chunk.js",
+    "main.js.map": "/static/js/main.0dedf522.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.644e02dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.644e02dc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cd09d440.chunk.js": "/static/js/2.cd09d440.chunk.js",
+    "static/js/2.cd09d440.chunk.js.map": "/static/js/2.cd09d440.chunk.js.map",
+    "static/js/3.e4a5c669.chunk.js": "/static/js/3.e4a5c669.chunk.js",
+    "static/js/3.e4a5c669.chunk.js.map": "/static/js/3.e4a5c669.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5823061f.chunk.css.map": "/static/css/main.5823061f.chunk.css.map",
+    "static/js/2.cd09d440.chunk.js.LICENSE.txt": "/static/js/2.cd09d440.chunk.js.LICENSE.txt",
+    "static/media/largest-vaccine-banner.68f2be6e.jpeg": "/static/media/largest-vaccine-banner.68f2be6e.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.29c528b6.js",
+    "static/js/runtime-main.644e02dc.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.cd09d440.chunk.js",
     "static/css/main.5823061f.chunk.css",
-    "static/js/main.8ad246ba.chunk.js"
+    "static/js/main.0dedf522.chunk.js"
   ]
 }
